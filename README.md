@@ -17,7 +17,7 @@
 
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/sunilkofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://sunilkumar.pages.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://sunilkumar.pages.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio"></a>
 <a href="https://discord.gg/Nr5EssRyP5"><img src="https://img.shields.io/badge/Discord-7B2FFF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://www.instagram.com/realsunil__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://youtube.com/@sunilgaming_op"><img src="https://img.shields.io/badge/Sunil_Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Sunil Gaming"></a>
@@ -128,6 +128,10 @@ like an afterthought.
 
 <br><br>
 
+<img src="assets/metrics.habits.svg" width="90%" alt="coding habits">
+
+<br><br>
+
 <img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
 
 </div>
@@ -162,7 +166,7 @@ like an afterthought.
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td colspan="2" align="center">
   <a href="https://github.com/realsunil/sunilkumar">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-sunilkumar-dark.svg">
@@ -183,20 +187,6 @@ like an afterthought.
 | **[sunilkumar](https://github.com/realsunil/sunilkumar)** | [sunilkumar.pages.dev](https://sunilkumar.pages.dev) | `HTML` `CSS` `JavaScript` |
 
 </sub>
-
-</div>
-
----
-
-<div align="center">
-
-## `~/` contribution matrix
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realsunil/realsunil/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/realsunil/realsunil/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/realsunil/realsunil/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
